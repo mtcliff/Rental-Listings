@@ -8,3 +8,5 @@ De-Duplicator.ipynb: Assign each listing a duplicate id based on some combinatio
 de-duplicator_with_x,y.ipynb: Same as De-Duplicator but works for x, y coordinate locations. Also supports rounding coordinates to 2, 3, or 4 decimal places (assuming they are already included in the data)
 
 median.py: Computes median rent for given town and number of bedrooms
+
+Levenshtein.ipynb: de-duplicate listings data using Levenshtein distance for text comparison. WARNING: not tested, does not work in its current form
