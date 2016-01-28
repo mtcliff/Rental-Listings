@@ -6,7 +6,6 @@ def main():
 	source = raw_input('Data source: ')		
 
 	data = pd.read_csv(source)
-	data = pd.DataFrame(data)
 
 	muni = raw_input('Town: ')
 	muni = muni.upper()	
