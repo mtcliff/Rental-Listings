@@ -9,4 +9,4 @@ de-duplicator_with_x,y.ipynb: Same as De-Duplicator but works for x, y coordinat
 
 median.py: Computes median rent for given town and number of bedrooms
 
-Levenshtein.ipynb: de-duplicate listings data using Levenshtein distance for text comparison. WARNING: not tested, does not work in its current form
+Levenshtein.ipynb: de-duplicate listings data using Levenshtein distance for text comparison. WARNING: not tested, contains errors in its current form
